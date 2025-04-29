@@ -1,24 +1,13 @@
-# ![aws](https://github.com/julien-muke/Search-Engine-Website-using-AWS/assets/110755734/01cd6124-8014-4baa-a5fe-bd227844d263) Deploying a React.js App on AWS EC2 Using Terraform | Complete Automation Tutorial 💻🚀
 
-<div align="center">
-
-  <br />
-    <a href="https://youtu.be/Tbp6VJrq2ho?si=htW_VrEVu3E4XiEn" target="_blank">
-      <img src="https://github.com/user-attachments/assets/e8f01153-2ea4-4c89-853f-1b604b6effad" alt="Project Banner">
-    </a>
-  <br />
 
 <h3 align="center">Deploying a React app using EC2 and Terraform</h3>
 
-   <div align="center">
-     Build this hands-on demo step by step with my detailed tutorial on <a href="http://www.youtube.com/@julienmuke/videos" target="_blank"><b>Julien Muke</b></a> YouTube. Feel free to subscribe 🔔!
-    </div>
-</div>
+  
 
 ## 🚨 Tutorial
 
 This repository contains the steps corresponding to an in-depth tutorial available on my YouTube
-channel, <a href="http://www.youtube.com/@julienmuke/videos" target="_blank"><b>Julien Muke</b></a>.
+channel, <a href="http://www.youtube.com/@julienmuke/videos" target="_blank"><b>Dinesh Kumar K</b></a>.
 
 If you prefer visual learning, this is the perfect resource for you. Follow my tutorial to learn how to build projects
 like these step-by-step in a beginner-friendly manner!
